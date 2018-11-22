@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/03.Lists and Dictionaries/DictRef.py" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8e917a88-f3d9-4180-9322-297667d6a798" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,43 +44,53 @@
     <session id="1219794555">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="20" />
+          <entry key="py" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="20" />
+          <entry key="Python" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="4949" />
+          <entry key="py" value="7122" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="4949" />
+          <entry key="Python" value="7122" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/03.Lists and Dictionaries/SqureNumbers.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03.Lists and Dictionaries/DictRef.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            <state relative-caret-position="78">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/03.Lists and Dictionaries/MixedPhones.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -119,6 +132,11 @@
         <option value="$PROJECT_DIR$/03.Lists and Dictionaries/AppendList.py" />
         <option value="$PROJECT_DIR$/03.Lists and Dictionaries/SortNumbers.py" />
         <option value="$PROJECT_DIR$/03.Lists and Dictionaries/SqureNumbers.py" />
+        <option value="$PROJECT_DIR$/03.Lists and Dictionaries/OddOccurrences.py" />
+        <option value="$PROJECT_DIR$/03.Lists and Dictionaries/CountRealNumbers.py" />
+        <option value="$PROJECT_DIR$/03.Lists and Dictionaries/LetterRepetition.py" />
+        <option value="$PROJECT_DIR$/03.Lists and Dictionaries/DictRef.py" />
+        <option value="$PROJECT_DIR$/03.Lists and Dictionaries/MixedPhones.py" />
       </list>
     </option>
   </component>
@@ -168,8 +186,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.SqureNumbers">
-    <configuration name="AppendList" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.MixedPhones">
+    <configuration name="CountRealNumbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python Fundamentals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -181,7 +199,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03.Lists and Dictionaries/AppendList.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03.Lists and Dictionaries/CountRealNumbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,7 +208,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="OddNumbersAtOddPositions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="DictRef" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python Fundamentals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -202,7 +220,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03.Lists and Dictionaries/OddNumbersAtOddPositions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03.Lists and Dictionaries/DictRef.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -211,7 +229,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="RemoveNegativeAndReverse" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="LetterRepetition" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python Fundamentals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -223,7 +241,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03.Lists and Dictionaries/RemoveNegativeAndReverse.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03.Lists and Dictionaries/LetterRepetition.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -232,7 +250,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SortNumbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="MixedPhones" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python Fundamentals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -244,7 +262,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03.Lists and Dictionaries/SortNumbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03.Lists and Dictionaries/MixedPhones.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,7 +271,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SqureNumbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="OddOccurrences" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python Fundamentals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -265,7 +283,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03.Lists and Dictionaries/SqureNumbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03.Lists and Dictionaries/OddOccurrences.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,19 +293,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.OddNumbersAtOddPositions" />
-      <item itemvalue="Python.RemoveNegativeAndReverse" />
-      <item itemvalue="Python.AppendList" />
-      <item itemvalue="Python.SortNumbers" />
-      <item itemvalue="Python.SqureNumbers" />
+      <item itemvalue="Python.OddOccurrences" />
+      <item itemvalue="Python.CountRealNumbers" />
+      <item itemvalue="Python.LetterRepetition" />
+      <item itemvalue="Python.DictRef" />
+      <item itemvalue="Python.MixedPhones" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.SqureNumbers" />
-        <item itemvalue="Python.SortNumbers" />
-        <item itemvalue="Python.AppendList" />
-        <item itemvalue="Python.RemoveNegativeAndReverse" />
-        <item itemvalue="Python.OddNumbersAtOddPositions" />
+        <item itemvalue="Python.MixedPhones" />
+        <item itemvalue="Python.DictRef" />
+        <item itemvalue="Python.LetterRepetition" />
+        <item itemvalue="Python.CountRealNumbers" />
+        <item itemvalue="Python.OddOccurrences" />
       </list>
     </recent_temporary>
   </component>
@@ -312,8 +330,8 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.08346972" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.30441898" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.07855974" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.27168575" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -328,6 +346,27 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03.Lists and Dictionaries/CountRealNumbers.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03.Lists and Dictionaries/DictRef.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03.Lists and Dictionaries/MixedPhones.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/01.Intro Python/HelloPython.py">
@@ -435,13 +474,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03.Lists and Dictionaries/SumListItems.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03.Lists and Dictionaries/OddNumbersAtOddPositions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -477,10 +509,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/03.Lists and Dictionaries/SumListItems.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/03.Lists and Dictionaries/SqureNumbers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
-          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.Lists and Dictionaries/OddOccurrences.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.Lists and Dictionaries/CountRealNumbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.Lists and Dictionaries/LetterRepetition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.Lists and Dictionaries/DictRef.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.Lists and Dictionaries/MixedPhones.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
